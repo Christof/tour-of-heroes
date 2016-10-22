@@ -33,7 +33,6 @@
     "typescript": "^2.0.2",
     "@types/core-js": "^0.9.32",
     "@types/jasmine": "^2.2.33",
-    "@types/node": "^6.0.0",
-    "@types/protractor": "^1.5.18"
+    "@types/node": "^6.0.0"
   }
 }
